@@ -27,10 +27,17 @@ main{
     text-align: center;
     font-size: 30px;
 }
+#info{
+    margin-left: 100px;
+    margin-right: 100px;
+}
 #welcome{
     color: red;
     text-align: center;
     font-size: 50px;
+}
+#imagess{
+    text-align: center;
 }
 #img1, #img2{
     margin-right: 30px;
